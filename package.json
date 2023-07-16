@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.8.0-rc.0",
+    "@apollo/experimental-nextjs-app-support": "^0.0.0-commit-473354a",
     "autoprefixer": "10.4.14",
     "next": "13.4.10",
     "postcss": "8.4.26",
