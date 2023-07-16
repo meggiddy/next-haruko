@@ -1,4 +1,4 @@
-import { ApolloWrapper } from "/@lib/apollo-wrapper";
+import ApolloWrapper  from "../../lib/apollo-wrapper";
 
 export default function RootLayout({ children }) {
   return (
